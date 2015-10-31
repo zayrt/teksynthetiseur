@@ -1,0 +1,15 @@
+{"tracks" : [
+
+{"tempo" : 500, "notes" : [
+[{"name": "do", "value" : "noir"}, {"name": "fa", "value" : "ronde"}, {"name": "ré", "value" : "ronde"}, {"name": "la", "value" : "ronde"}],
+[{"name": "si", "value" : "ronde"}, {"name": "ré", "value" : "ronde"}, {"name": "fa", "value" : "ronde"}],
+[{"name": "mi", "value" : "noir"}],
+[{"name": "fa", "value" : "triple croche"}]]},
+
+{"tempo" : 100, "notes" : [
+[{"name": "do", "value" : "noir"}, {"name": "fa", "value" : "ronde"}, {"name": "ré", "value" : "ronde"}, {"name": "la", "value" : "ronde"}],
+[{"name": "si", "value" : "ronde"}, {"name": "ré", "value" : "ronde"}, {"name": "fa", "value" : "ronde"}],
+[{"name": "mi", "value" : "noir"}],
+[{"name": "fa", "value" : "triple croche"}]]}
+
+]}
